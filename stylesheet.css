@@ -17,6 +17,9 @@ body {
   color: 7fffd4;
   background-color: #00bfff;
 }
+from{
+  padding: 100px 0px 0px 50px;
+}
 .logo2{
   padding: 0px 400px 100px 0px;
   float: left;
