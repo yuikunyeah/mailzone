@@ -17,6 +17,9 @@ body {
   color: 7fffd4;
   background-color: #00bfff;
 }
+h1{
+  padding: 100px 0px 0px 0px;
+}
 from{
   padding: 300px 0px 0px 50px;
 }
