@@ -17,3 +17,12 @@ body {
   color: 7fffd4;
   background-color: #00bfff;
 }
+.logo2{
+  padding: 0px 400px 100px 0px;
+  float: left;
+}
+.fotter-list li {
+  list-style: none;
+  float: right;
+  padding: 0px 50px 10px 10px;
+}
